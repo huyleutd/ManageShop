@@ -1,0 +1,7 @@
+c:\users\huyle\documents\visual studio 2015\Projects\ManageShop\ManageShopDAO\bin\Debug\ManageShopDAO.dll
+c:\users\huyle\documents\visual studio 2015\Projects\ManageShop\ManageShopDAO\bin\Debug\ManageShopDAO.pdb
+c:\users\huyle\documents\visual studio 2015\Projects\ManageShop\ManageShopDAO\obj\Debug\ManageShopDAO.csprojResolveAssemblyReference.cache
+c:\users\huyle\documents\visual studio 2015\Projects\ManageShop\ManageShopDAO\obj\Debug\ManageShopDAO.dll
+c:\users\huyle\documents\visual studio 2015\Projects\ManageShop\ManageShopDAO\obj\Debug\ManageShopDAO.pdb
+C:\Users\Huyle\documents\visual studio 2015\Projects\ManageShop\ManageShopDAO\bin\Debug\ManageShopLibrary.dll
+C:\Users\Huyle\documents\visual studio 2015\Projects\ManageShop\ManageShopDAO\bin\Debug\ManageShopLibrary.pdb

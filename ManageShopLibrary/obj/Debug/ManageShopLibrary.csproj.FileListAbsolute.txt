@@ -1,0 +1,5 @@
+C:\Users\Huyle\documents\visual studio 2015\Projects\ManageShop\ManageShopLibrary\bin\Debug\ManageShopLibrary.dll
+C:\Users\Huyle\documents\visual studio 2015\Projects\ManageShop\ManageShopLibrary\bin\Debug\ManageShopLibrary.pdb
+C:\Users\Huyle\documents\visual studio 2015\Projects\ManageShop\ManageShopLibrary\obj\Debug\ManageShopLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Huyle\documents\visual studio 2015\Projects\ManageShop\ManageShopLibrary\obj\Debug\ManageShopLibrary.dll
+C:\Users\Huyle\documents\visual studio 2015\Projects\ManageShop\ManageShopLibrary\obj\Debug\ManageShopLibrary.pdb
